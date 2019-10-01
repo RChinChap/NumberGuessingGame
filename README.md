@@ -1,4 +1,4 @@
 # Number Guessing Game
 
-## Description
+### Description
 hi
